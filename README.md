@@ -23,7 +23,7 @@ IntelliJ is not necessary for this activity, and it is meant to be done on the c
 1. Talk with your teammates and come up with a Team name.
 2. Make a fork of this repository by clicking the "fork" button on the website.
 3. Each member should clone the newly created repository to their computer.
-4. You will need to set the upstream to point at the class COMP301-F25 repo.  There are a list of commands at the bottom of the instructions to help you do this.
+4. You will need to set the upstream to point at the class COMP301-S26 repo.  There are a list of commands at the bottom of the instructions to help you do this.
 5. Verify that the origin and remote are properly set by typing `git remote -v`.  Once you have verified that everything looks right, you are ready to begin.
 6. Add all your team members as collaborators.  
 7. You will see folders for the morning section and the afternoon section. Choose the appropriate folder to work in.  
@@ -98,7 +98,7 @@ Always remove `<<<<<<<`, `=======`, and `>>>>>>>`.
 git remote -v
 
 # add the class repo as 'upstream'
-git remote add upstream https://github.com/COMP301-F25/Github-Activity.git
+git remote add upstream https://github.com/COMP301-S26/Github-Activity.git
 git fetch upstream
 ```
 
